@@ -1,0 +1,176 @@
+AGENTIC CHUNKING RESULTS
+==================================================
+
+Total chunks processed: 5
+
+CHUNK 1/5
+ID: chunk_1
+Context: Fallback processing
+--------------------------------------------------
+Source file: /Users/ggj/Documents/GitHub/Contextual-Retrieval/corpus/tang-chi-bo-kinh.pdf
+Total chunks: 1034
+==================================================
+
+CHUNK 2/5
+ID: chunk_2
+Context: Fallback processing
+--------------------------------------------------
+CHUNK 1/1034
+Length: 1309 characters
+--------------------------------------------------
+(I) (1) Giác Ngộ
+Như vậy, tôi nghe:
+Một thời, Thế Tôn trú ở giữa dân chúng Vajji, tại làng Bhanda. Tại đấy, Thế Tôn bảo các Tỷ-kheo:
+- Này các Tỷ-kheo.
+- Thưa vâng, bạch Thế Tôn.
+Các tỷ-kheo ấy vâng đáp Thế Tôn. Thế tôn nói như sau:
+2.- Này các Tỷ-kheo, do không giác ngộ, không thể nhập bốn pháp, như vậy phải chạy dài, luân chuyển
+trong một thời gian dài, đối với Ta và đối với các Thầy! Thế nào là bốn?
+3. Này các Tỷ-kheo, do không giác ngộ, không thể nhập Thánh giới, như vậy phải chạy dài, phải luân
+chuyển trong một thời gian dài, đối với Ta và đối với các Thầy. Này các Tỷ-kheo, do không giác ngộ,
+không thể nhập Thánh định, ... Thánh tuệ, ... Thánh giải thoát, như vậy phải chạy dài, phải luân chuyển
+trong một thời gian dài, đối với Ta và đối với các Thầy.
+4. Này các Tỷ-kheo, khi nào Thánh giới này được giác ngộ, được thể nhập; Thánh tuệ được giác ngộ,
+được thể nhập; Thánh định được giác ngộ, được thể nhập; Thánh giải thoát được giác ngộ, được thể
+nhập; hữu ái được chặt đứt, dây cột của hữu được đoạn tận, nay không còn tái sanh.
+5.-Thế Tôn nói như vậy. Thiện Thệ sau khi nói vậy xong, bậc Ðạo sư lại nói thêm:
+Giới, Thiền định, Trí tuệ
+Với giải thoát vô thượng
+Gotama danh xưng
+Giác ngộ những pháp này
+Ðức Phật thắng tri chúng
+Thuyết pháp cho Tỷ-kheo
+Ðạo sư đoạn tận khổ
+Bậc Tuệ nhãn tịch tịnh.
+==================================================
+
+CHUNK 3/5
+ID: chunk_3
+Context: Fallback processing
+--------------------------------------------------
+CHUNK 2/1034
+Length: 1118 characters
+--------------------------------------------------
+(II) (2) Rời Khỏi
+1.- Người không thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này. Thế
+nào là bốn?
+Không thành tựu Thánh giới, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này. Không thành tựu
+Thánh Thiền định, này các Tỷ-kheo, ... không thành tựu Thánh Trí tuệ, này các Tỷ-kheo ... không thành
+tựu Thánh giải thoát, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này.
+Không thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này.
+Kinh Tăng Chi Bộ 2. Thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này. Thế nào là bốn?
+3. Thành tựu Thánh giới, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này. Thành tựu Thánh
+định, này các Tỷ-kheo, ... thành tựu Thánh Trí tuệ, này các Tỷ-kheo ... thành tựu Thánh giải thoát, này
+các Tỷ-kheo, được gọi là không rời khỏi pháp luật này.
+Thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là không rời khỏi pháp luật này.
+Sau khi chết họ rơi
+Bị rơi họ tham ái
+Do vậy họ trở lại
+Một lần nữa tái sanh
+Ðã làm việc phải làm
+Ðã thích việc đáng thích
+Người ấy được an lạc
+Do an lạc đưa đến
+==================================================
+
+CHUNK 4/5
+ID: chunk_4
+Context: Fallback processing
+--------------------------------------------------
+CHUNK 3/1034
+Length: 2139 characters
+--------------------------------------------------
+(III) (3) Mất Gốc (1)
+- Tán thán, không tán thán, tín nhiệm, không tín nhiệm.
+1. Thành tựu bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
+mình sử xự như môt kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách, và tạo nên nhiều điều vô
+phước. Thế nào là bốn?
+Không có suy xét, không có cứu xét, tán thán người không đáng tán thán; Không có suy xét, không có
+cứu xét, không tán thán người đáng tán thán; Không có suy xét, không có cứu xét, tỏ bày sự tín nhiệm ở
+những chỗ không đáng tín nhiệm; Không có suy xét, không có cứu xét, bất tín nhiệm tại những chỗ đáng
+tín nhiệm.
+Thành tựu bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
+mình sử xự như môt kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách, và tạo nên nhiều điều vô
+phước.
+2. Thành tựu bốn pháp này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình sử xự
+như môt người không mất gốc, không bị thương tích, không phạm tội, không bị kẻ trí quở trách, và tạo
+nên nhiều điều phước đức. Thế nào là bốn?
+Sau khi suy xét, sau khi cứu xét, không tán thán những người không đáng được tán thán; Sau khi suy
+xét, sau khi cứu xét, tán thán những người đáng được tán thán; Sau khi suy xét, sau khi cứu xét, tỏ bày
+sự tín nhiệm ở những chỗ đáng tín nhiệm; sau khi suy xét, sau khi cứu xét, tỏ bày sự tín nhiệm tại những
+chỗ đáng tín nhiệm. Thành tựu bốn pháp này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân
+nhân, tự mình sử xự như môt người không mất gốc, không bị thương tích, không phạm tội, không bị kẻ
+trí quở trách, và tạo nên nhiều phước đức.
+Ai khen người đáng chê
+Ai chê người đáng khen
+Kẻ ấy với miệng lưỡi
+Chứa chấp điều bất hạnh
+Do vì bất hạnh ấy
+Kinh Tăng Chi Bộ Không tìm được an lạc
+Nhỏ nhen không đáng kể
+Là loại bất hạnh này
+Bất hạnh do cờ bạc
+Phá hoại các tài sản
+Lớn hơn, lớn hơn nhiều
+Là loại bất hạnh này
+Cho tất cả mọi người
+Và cả với riêng mình
+Những ai với ác ý
+Ðối với bậc Thiện thệ
+Trải qua một trămngàn
+Thời Nirabbudà
+Và cộng ba mươi sáu
+Với năm Abbudà
+Bị sanh vào địa ngục
+Trong suốt thời gian ấy
+Nếu mắng nhiếc bậc Thánh
+Với lời, ý, nguyện ác.
+==================================================
+
+CHUNK 5/5
+ID: chunk_5
+Context: Fallback processing
+--------------------------------------------------
+CHUNK 4/1034
+Length: 1831 characters
+--------------------------------------------------
+(IV) (4) Mất Gốc (2)
+1.- Do tà hạnh trong bốn sự, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
+mình sử xự như môt kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách, và tạo nhiều điều vô
+phước. Thế nào là tà hạnh trong bốn sự?
+Tà hạnh đối với mẹ, này các Tỷ-kheo, kẻ ngu, không thông minh ... tạo nên nhiều điều vô phước. Tà
+hạnh đối với cha, này các Tỷ-kheo, ... Tà hạnh đối với Như Lai, này các Tỷ-kheo,... Tà hạnh đối với đệ
+tử của Như Lai, này các Tỷ-kheo....., kẻ ngu, không thông minh, không phải bậc Chân nhân ... và tạo
+nên nhiều điều vô phước. Tà hạnh trong bốn pháp này, này các Tỷ-kheo, kẻ ngu, không thông minh, ...
+tạo nên nhiều điều vô phước.
+2. Chánh hạnh trong bốn sự này, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình
+sử xự không như người mất gốc, không bị thương tích, không phạm tội, không bị kẻ trí quở trách, và tạo
+nên nhiều điều phước đức. Thế nào là chánh hạnh trong bốn sự?
+Chánh hạnh đối với mẹ, này các Tỷ-kheo, bậc Hiền trí, thông minh ... tạo nhiều phước đức. Chánh hạnh
+đối với cha, này các Tỷ-kheo, ... Chánh hạnh đối với Như Lai, này các Tỷ kheo... Chánh hạnh đối với đệ
+tử Như Lai, này các Tỷ-kheo, bậc Hiền trí, thông minh, là bậc Chân nhân, tự mình sử xự không như
+người mất gốc ... tạo nhiều phước đức. Chánh hạnh trong bốn sự này, này các Tỷ-kheo, bậc Hiền trí,
+thông minh, ... tạo nhiều phước đức.
+3.
+Ðối với mẹ và cha
+Ai hành xử tà vạy
+Với Như Lai Chánh Giác
+Hay với đệ tử Ngài
+Người xử sự như vậy
+Tạo nhiều điều vô phước
+Những ai có ác hạnh
+Kinh Tăng Chi Bộ Ðối với mẹ và cha
+Ðời này, bậc trí trách
+Ðời sau sanh đọa xứ
+Ðối với mẹ và cha
+Ai hành xử chơn chánh
+Với Như Lai Chánh Giác
+Hay với đệ tử Ngài
+Người xử sự như vậy
+Tạo nhiều điều phước đức
+Những ai có chánh hạnh
+Ðối với mẹ và cha
+Ðời này, bậc trí khen
+Ðời sau hưởng Thiên giới
+==================================================
+

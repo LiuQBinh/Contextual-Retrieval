@@ -1,0 +1,15 @@
+2025-09-02 21:56:55,451 - INFO - Đang xử lý chunk 1
+2025-09-02 21:58:10,461 - ERROR - Lỗi khi gọi LM Studio: HTTPConnectionPool(host='192.168.1.24', port=2223): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1022a11d0>, 'Connection to 192.168.1.24 timed out. (connect timeout=120)'))
+2025-09-02 21:58:10,462 - WARNING - Không nhận được phản hồi cho chunk 1
+2025-09-02 21:58:10,462 - INFO - Đang xử lý chunk 2
+2025-09-02 21:59:25,471 - ERROR - Lỗi khi gọi LM Studio: HTTPConnectionPool(host='192.168.1.24', port=2223): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1022a3c90>, 'Connection to 192.168.1.24 timed out. (connect timeout=120)'))
+2025-09-02 21:59:25,471 - WARNING - Không nhận được phản hồi cho chunk 2
+2025-09-02 21:59:25,472 - INFO - Đang xử lý chunk 3
+2025-09-02 22:00:40,478 - ERROR - Lỗi khi gọi LM Studio: HTTPConnectionPool(host='192.168.1.24', port=2223): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1022b6450>, 'Connection to 192.168.1.24 timed out. (connect timeout=120)'))
+2025-09-02 22:00:40,479 - WARNING - Không nhận được phản hồi cho chunk 3
+2025-09-02 22:00:40,479 - INFO - Đang xử lý chunk 4
+2025-09-02 22:01:55,487 - ERROR - Lỗi khi gọi LM Studio: HTTPConnectionPool(host='192.168.1.24', port=2223): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1016cd990>, 'Connection to 192.168.1.24 timed out. (connect timeout=120)'))
+2025-09-02 22:01:55,487 - WARNING - Không nhận được phản hồi cho chunk 4
+2025-09-02 22:01:55,487 - INFO - Đang xử lý chunk 5
+2025-09-02 22:03:10,493 - ERROR - Lỗi khi gọi LM Studio: HTTPConnectionPool(host='192.168.1.24', port=2223): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1022a1910>, 'Connection to 192.168.1.24 timed out. (connect timeout=120)'))
+2025-09-02 22:03:10,494 - WARNING - Không nhận được phản hồi cho chunk 5

@@ -1,0 +1,16 @@
+{
+    "yaml.maxItemsComputed": 100000,
+    "yaml.maxItemsComputedInCollection": 100000,
+    "yaml.maxItemsComputedInMap": 100000,
+    "yaml.maxItemsComputedInSequence": 100000,
+    "files.associations": {
+        "*.yml": "yaml",
+        "*.yaml": "yaml"
+    },
+    "yaml.format.enable": true,
+    "yaml.validate": true,
+    "yaml.hover": true,
+    "yaml.completion": true,
+    "yaml.schemas": {},
+    "yaml.customTags": []
+}
